@@ -1,0 +1,4 @@
+C:\Users\jpine\OneDrive\Escritorio\Zoologico virtual\ZooVirtual\ZooVirtual\obj\Debug\net8.0\ZooVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Zoologico virtual\ZooVirtual\ZooVirtual\obj\Debug\net8.0\ZooVirtual.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Zoologico virtual\ZooVirtual\ZooVirtual\obj\Debug\net8.0\ZooVirtual.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Zoologico virtual\ZooVirtual\ZooVirtual\obj\Debug\net8.0\ZooVirtual.csproj.CoreCompileInputs.cache
